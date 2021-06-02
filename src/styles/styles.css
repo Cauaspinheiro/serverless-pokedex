@@ -13,4 +13,42 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  background-color: #111;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+.content img {
+  height: 60vh;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.content .title {
+  text-decoration: none;
+}
+
+.content .title h1 {
+  color: #ecf8f8;
+  font-size: 5vw;
+  font-family: Poppins, Roboto, sans-serif;
+  letter-spacing: 2px;
+  font-weight: 900;
+  margin: 0;
+  margin-bottom: 24px;
+  padding: 0;
+}
+
+.content .image-credits {
+  color: #ecf8f8;
+  font-family: Poppins, Roboto, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
 }
