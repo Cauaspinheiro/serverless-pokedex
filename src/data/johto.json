@@ -1,0 +1,935 @@
+[
+  {
+    "weakness": ["Bug", "Fire", "Flying", "Ice", "Poison"],
+    "number": "152",
+    "description": "",
+    "name": "Chikorita",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/152.png",
+    "id": 152,
+    "type": ["grass"]
+  },
+  {
+    "weakness": ["Bug", "Fire", "Flying", "Ice", "Poison"],
+    "number": "153",
+    "description": "",
+    "name": "Bayleef",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/153.png",
+    "id": 153,
+    "type": ["grass"]
+  },
+  {
+    "weakness": ["Bug", "Fire", "Flying", "Ice", "Poison"],
+    "number": "154",
+    "description": "",
+    "name": "Meganium",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/154.png",
+    "id": 154,
+    "type": ["grass"]
+  },
+  {
+    "weakness": ["Ground", "Rock", "Water"],
+    "number": "155",
+    "description": "",
+    "name": "Cyndaquil",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/155.png",
+    "id": 155,
+    "type": ["fire"]
+  },
+  {
+    "weakness": ["Ground", "Rock", "Water"],
+    "number": "156",
+    "description": "",
+    "name": "Quilava",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/156.png",
+    "id": 156,
+    "type": ["fire"]
+  },
+  {
+    "weakness": ["Ground", "Rock", "Water"],
+    "number": "157",
+    "description": "",
+    "name": "Typhlosion",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/157.png",
+    "id": 157,
+    "type": ["fire"]
+  },
+  {
+    "weakness": ["Electric", "Grass"],
+    "number": "158",
+    "description": "",
+    "name": "Totodile",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/158.png",
+    "id": 158,
+    "type": ["water"]
+  },
+  {
+    "weakness": ["Electric", "Grass"],
+    "number": "159",
+    "description": "",
+    "name": "Croconaw",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/159.png",
+    "id": 159,
+    "type": ["water"]
+  },
+  {
+    "weakness": ["Electric", "Grass"],
+    "number": "160",
+    "description": "",
+    "name": "Feraligatr",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/160.png",
+    "id": 160,
+    "type": ["water"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "161",
+    "description": "",
+    "name": "Sentret",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/161.png",
+    "id": 161,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "162",
+    "description": "",
+    "name": "Furret",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/162.png",
+    "id": 162,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Electric", "Ice", "Rock"],
+    "number": "163",
+    "description": "",
+    "name": "Hoothoot",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/163.png",
+    "id": 163,
+    "type": ["normal", "flying"]
+  },
+  {
+    "weakness": ["Electric", "Ice", "Rock"],
+    "number": "164",
+    "description": "",
+    "name": "Noctowl",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/164.png",
+    "id": 164,
+    "type": ["normal", "flying"]
+  },
+  {
+    "weakness": ["Rock", "Electric", "Fire", "Flying", "Ice"],
+    "number": "165",
+    "description": "",
+    "name": "Ledyba",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/165.png",
+    "id": 165,
+    "type": ["bug", "flying"]
+  },
+  {
+    "weakness": ["Rock", "Electric", "Fire", "Flying", "Ice"],
+    "number": "166",
+    "description": "",
+    "name": "Ledian",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/166.png",
+    "id": 166,
+    "type": ["bug", "flying"]
+  },
+  {
+    "weakness": ["Fire", "Flying", "Psychic", "Rock"],
+    "number": "167",
+    "description": "",
+    "name": "Spinarak",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/167.png",
+    "id": 167,
+    "type": ["bug", "poison"]
+  },
+  {
+    "weakness": ["Fire", "Flying", "Psychic", "Rock"],
+    "number": "168",
+    "description": "",
+    "name": "Ariados",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/168.png",
+    "id": 168,
+    "type": ["bug", "poison"]
+  },
+  {
+    "weakness": ["Electric", "Ice", "Psychic", "Rock"],
+    "number": "169",
+    "description": "",
+    "name": "Crobat",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/169.png",
+    "id": 169,
+    "type": ["poison", "flying"]
+  },
+  {
+    "weakness": ["Grass", "Ground"],
+    "number": "170",
+    "description": "",
+    "name": "Chinchou",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/170.png",
+    "id": 170,
+    "type": ["water", "electric"]
+  },
+  {
+    "weakness": ["Grass", "Ground"],
+    "number": "171",
+    "description": "",
+    "name": "Lanturn",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/171.png",
+    "id": 171,
+    "type": ["water", "electric"]
+  },
+  {
+    "weakness": ["Ground"],
+    "number": "172",
+    "description": "",
+    "name": "Pichu",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/172.png",
+    "id": 172,
+    "type": ["electric"]
+  },
+  {
+    "weakness": ["Steel", "Poison"],
+    "number": "173",
+    "description": "",
+    "name": "Cleffa",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/173.png",
+    "id": 173,
+    "type": ["fairy"]
+  },
+  {
+    "weakness": ["Steel", "Poison"],
+    "number": "174",
+    "description": "",
+    "name": "Igglybuff",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/174.png",
+    "id": 174,
+    "type": ["normal", "fairy"]
+  },
+  {
+    "weakness": ["Steel", "Poison"],
+    "number": "175",
+    "description": "",
+    "name": "Togepi",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/175.png",
+    "id": 175,
+    "type": ["fairy"]
+  },
+  {
+    "weakness": ["Electric", "Ice", "Rock", "Steel", "Poison"],
+    "number": "176",
+    "description": "",
+    "name": "Togetic",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/176.png",
+    "id": 176,
+    "type": ["fairy", "flying"]
+  },
+  {
+    "weakness": ["Dark", "Electric", "Ghost", "Ice", "Rock"],
+    "number": "177",
+    "description": "",
+    "name": "Natu",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/177.png",
+    "id": 177,
+    "type": ["psychic", "flying"]
+  },
+  {
+    "weakness": ["Dark", "Electric", "Ghost", "Ice", "Rock"],
+    "number": "178",
+    "description": "",
+    "name": "Xatu",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/178.png",
+    "id": 178,
+    "type": ["psychic", "flying"]
+  },
+  {
+    "weakness": ["Ground"],
+    "number": "179",
+    "description": "",
+    "name": "Mareep",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/179.png",
+    "id": 179,
+    "type": ["electric"]
+  },
+  {
+    "weakness": ["Ground"],
+    "number": "180",
+    "description": "",
+    "name": "Flaaffy",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/180.png",
+    "id": 180,
+    "type": ["electric"]
+  },
+  {
+    "weakness": ["Fairy", "Dragon", "Ice", "Ground"],
+    "number": "181",
+    "description": "",
+    "name": "Ampharos",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181.png",
+    "id": 181,
+    "type": ["electric", "dragon"]
+  },
+  {
+    "weakness": ["Ground"],
+    "number": "181",
+    "description": "",
+    "name": "Ampharos",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181.png",
+    "id": 181,
+    "type": ["electric"]
+  },
+  {
+    "weakness": ["Bug", "Fire", "Flying", "Ice", "Poison"],
+    "number": "182",
+    "description": "",
+    "name": "Bellossom",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/182.png",
+    "id": 182,
+    "type": ["grass"]
+  },
+  {
+    "weakness": ["Electric", "Grass", "Poison"],
+    "number": "183",
+    "description": "",
+    "name": "Marill",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/183.png",
+    "id": 183,
+    "type": ["water", "fairy"]
+  },
+  {
+    "weakness": ["Electric", "Grass", "Poison"],
+    "number": "184",
+    "description": "",
+    "name": "Azumarill",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/184.png",
+    "id": 184,
+    "type": ["water", "fairy"]
+  },
+  {
+    "weakness": ["Fighting", "Grass", "Ground", "Steel", "Water"],
+    "number": "185",
+    "description": "",
+    "name": "Sudowoodo",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/185.png",
+    "id": 185,
+    "type": ["rock"]
+  },
+  {
+    "weakness": ["Electric", "Grass"],
+    "number": "186",
+    "description": "",
+    "name": "Politoed",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/186.png",
+    "id": 186,
+    "type": ["water"]
+  },
+  {
+    "weakness": ["Ice", "Fire", "Flying", "Poison", "Rock"],
+    "number": "187",
+    "description": "",
+    "name": "Hoppip",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/187.png",
+    "id": 187,
+    "type": ["grass", "flying"]
+  },
+  {
+    "weakness": ["Ice", "Fire", "Flying", "Poison", "Rock"],
+    "number": "188",
+    "description": "",
+    "name": "Skiploom",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/188.png",
+    "id": 188,
+    "type": ["grass", "flying"]
+  },
+  {
+    "weakness": ["Ice", "Fire", "Flying", "Poison", "Rock"],
+    "number": "189",
+    "description": "",
+    "name": "Jumpluff",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/189.png",
+    "id": 189,
+    "type": ["grass", "flying"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "190",
+    "description": "",
+    "name": "Aipom",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/190.png",
+    "id": 190,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Bug", "Fire", "Flying", "Ice", "Poison"],
+    "number": "191",
+    "description": "",
+    "name": "Sunkern",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/191.png",
+    "id": 191,
+    "type": ["grass"]
+  },
+  {
+    "weakness": ["Bug", "Fire", "Flying", "Ice", "Poison"],
+    "number": "192",
+    "description": "",
+    "name": "Sunflora",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/192.png",
+    "id": 192,
+    "type": ["grass"]
+  },
+  {
+    "weakness": ["Rock", "Electric", "Fire", "Flying", "Ice"],
+    "number": "193",
+    "description": "",
+    "name": "Yanma",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/193.png",
+    "id": 193,
+    "type": ["bug", "flying"]
+  },
+  {
+    "weakness": ["Grass"],
+    "number": "194",
+    "description": "",
+    "name": "Wooper",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/194.png",
+    "id": 194,
+    "type": ["water", "ground"]
+  },
+  {
+    "weakness": ["Grass"],
+    "number": "195",
+    "description": "",
+    "name": "Quagsire",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/195.png",
+    "id": 195,
+    "type": ["water", "ground"]
+  },
+  {
+    "weakness": ["Bug", "Dark", "Ghost"],
+    "number": "196",
+    "description": "",
+    "name": "Espeon",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/196.png",
+    "id": 196,
+    "type": ["psychic"]
+  },
+  {
+    "weakness": ["Fighting", "Bug", "Fairy"],
+    "number": "197",
+    "description": "",
+    "name": "Umbreon",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/197.png",
+    "id": 197,
+    "type": ["dark"]
+  },
+  {
+    "weakness": ["Electric", "Ice", "Rock", "Fairy"],
+    "number": "198",
+    "description": "",
+    "name": "Murkrow",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/198.png",
+    "id": 198,
+    "type": ["dark", "flying"]
+  },
+  {
+    "weakness": ["Bug", "Dark", "Electric", "Ghost", "Grass"],
+    "number": "199",
+    "description": "",
+    "name": "Slowking",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/199.png",
+    "id": 199,
+    "type": ["water", "psychic"]
+  },
+  {
+    "weakness": ["Dark", "Ghost"],
+    "number": "200",
+    "description": "",
+    "name": "Misdreavus",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/200.png",
+    "id": 200,
+    "type": ["ghost"]
+  },
+  {
+    "weakness": ["Bug", "Dark", "Ghost"],
+    "number": "201",
+    "description": "",
+    "name": "Unown",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/201.png",
+    "id": 201,
+    "type": ["psychic"]
+  },
+  {
+    "weakness": ["Bug", "Dark", "Ghost"],
+    "number": "202",
+    "description": "",
+    "name": "Wobbuffet",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/202.png",
+    "id": 202,
+    "type": ["psychic"]
+  },
+  {
+    "weakness": ["Bug", "Dark"],
+    "number": "203",
+    "description": "",
+    "name": "Girafarig",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/203.png",
+    "id": 203,
+    "type": ["normal", "psychic"]
+  },
+  {
+    "weakness": ["Fire", "Flying", "Rock"],
+    "number": "204",
+    "description": "",
+    "name": "Pineco",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/204.png",
+    "id": 204,
+    "type": ["bug"]
+  },
+  {
+    "weakness": ["Fire"],
+    "number": "205",
+    "description": "",
+    "name": "Forretress",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/205.png",
+    "id": 205,
+    "type": ["bug", "steel"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "206",
+    "description": "",
+    "name": "Dunsparce",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/206.png",
+    "id": 206,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Ice", "Water"],
+    "number": "207",
+    "description": "",
+    "name": "Gligar",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/207.png",
+    "id": 207,
+    "type": ["ground", "flying"]
+  },
+  {
+    "weakness": ["Fire", "Water", "Fighting", "Ground"],
+    "number": "208",
+    "description": "",
+    "name": "Steelix",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/208.png",
+    "id": 208,
+    "type": ["steel", "ground"]
+  },
+  {
+    "weakness": ["Steel", "Poison"],
+    "number": "209",
+    "description": "",
+    "name": "Snubbull",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/209.png",
+    "id": 209,
+    "type": ["fairy"]
+  },
+  {
+    "weakness": ["Steel", "Poison"],
+    "number": "210",
+    "description": "",
+    "name": "Granbull",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/210.png",
+    "id": 210,
+    "type": ["fairy"]
+  },
+  {
+    "weakness": ["Electric", "Ground", "Psychic"],
+    "number": "211",
+    "description": "",
+    "name": "Qwilfish",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/211.png",
+    "id": 211,
+    "type": ["water", "poison"]
+  },
+  {
+    "weakness": ["Fire"],
+    "number": "212",
+    "description": "",
+    "name": "Scizor",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212.png",
+    "id": 212,
+    "type": ["bug", "steel"]
+  },
+  {
+    "weakness": ["Rock", "Steel", "Water"],
+    "number": "213",
+    "description": "",
+    "name": "Shuckle",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/213.png",
+    "id": 213,
+    "type": ["bug", "rock"]
+  },
+  {
+    "weakness": ["Fire", "Psychic", "Flying", "Fairy"],
+    "number": "214",
+    "description": "",
+    "name": "Heracross",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/214.png",
+    "id": 214,
+    "type": ["bug", "fighting"]
+  },
+  {
+    "weakness": ["Fighting", "Bug", "Fire", "Rock", "Steel", "Fairy"],
+    "number": "215",
+    "description": "",
+    "name": "Sneasel",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/215.png",
+    "id": 215,
+    "type": ["dark", "ice"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "216",
+    "description": "",
+    "name": "Teddiursa",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/216.png",
+    "id": 216,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "217",
+    "description": "",
+    "name": "Ursaring",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/217.png",
+    "id": 217,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Ground", "Rock", "Water"],
+    "number": "218",
+    "description": "",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/218.png",
+    "id": 218,
+    "type": ["fire"]
+  },
+  {
+    "weakness": ["Ground", "Water", "Fighting", "Rock"],
+    "number": "219",
+    "description": "",
+    "name": "Magcargo",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/219.png",
+    "id": 219,
+    "type": ["fire", "rock"]
+  },
+  {
+    "weakness": ["Fighting", "Fire", "Grass", "Steel", "Water"],
+    "number": "220",
+    "description": "",
+    "name": "Swinub",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/220.png",
+    "id": 220,
+    "type": ["ice", "ground"]
+  },
+  {
+    "weakness": ["Fighting", "Fire", "Grass", "Steel", "Water"],
+    "number": "221",
+    "description": "",
+    "name": "Piloswine",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/221.png",
+    "id": 221,
+    "type": ["ice", "ground"]
+  },
+  {
+    "weakness": ["Grass", "Electric", "Fighting", "Ground"],
+    "number": "222",
+    "description": "",
+    "name": "Corsola",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/222.png",
+    "id": 222,
+    "type": ["water", "rock"]
+  },
+  {
+    "weakness": ["Electric", "Grass"],
+    "number": "223",
+    "description": "",
+    "name": "Remoraid",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/223.png",
+    "id": 223,
+    "type": ["water"]
+  },
+  {
+    "weakness": ["Electric", "Grass"],
+    "number": "224",
+    "description": "",
+    "name": "Octillery",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/224.png",
+    "id": 224,
+    "type": ["water"]
+  },
+  {
+    "weakness": ["Rock", "Electric", "Fire", "Steel"],
+    "number": "225",
+    "description": "",
+    "name": "Delibird",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/225.png",
+    "id": 225,
+    "type": ["ice", "flying"]
+  },
+  {
+    "weakness": ["Electric", "Rock"],
+    "number": "226",
+    "description": "",
+    "name": "Mantine",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/226.png",
+    "id": 226,
+    "type": ["water", "flying"]
+  },
+  {
+    "weakness": ["Electric", "Fire"],
+    "number": "227",
+    "description": "",
+    "name": "Skarmory",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/227.png",
+    "id": 227,
+    "type": ["steel", "flying"]
+  },
+  {
+    "weakness": ["Fighting", "Ground", "Rock", "Water"],
+    "number": "228",
+    "description": "",
+    "name": "Houndour",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/228.png",
+    "id": 228,
+    "type": ["dark", "fire"]
+  },
+  {
+    "weakness": ["Fighting", "Water", "Rock", "Ground"],
+    "number": "229",
+    "description": "",
+    "name": "Houndoom",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/229.png",
+    "id": 229,
+    "type": ["dark", "fire"]
+  },
+  {
+    "weakness": ["Dragon", "Fairy"],
+    "number": "230",
+    "description": "",
+    "name": "Kingdra",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/230.png",
+    "id": 230,
+    "type": ["water", "dragon"]
+  },
+  {
+    "weakness": ["Grass", "Ice", "Water"],
+    "number": "231",
+    "description": "",
+    "name": "Phanpy",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/231.png",
+    "id": 231,
+    "type": ["ground"]
+  },
+  {
+    "weakness": ["Grass", "Ice", "Water"],
+    "number": "232",
+    "description": "",
+    "name": "Donphan",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/232.png",
+    "id": 232,
+    "type": ["ground"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "233",
+    "description": "",
+    "name": "Porygon2",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/233.png",
+    "id": 233,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "234",
+    "description": "",
+    "name": "Stantler",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/234.png",
+    "id": 234,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "235",
+    "description": "",
+    "name": "Smeargle",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/235.png",
+    "id": 235,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Flying", "Psychic", "Fairy"],
+    "number": "236",
+    "description": "",
+    "name": "Tyrogue",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/236.png",
+    "id": 236,
+    "type": ["fighting"]
+  },
+  {
+    "weakness": ["Flying", "Psychic", "Fairy"],
+    "number": "237",
+    "description": "",
+    "name": "Hitmontop",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/237.png",
+    "id": 237,
+    "type": ["fighting"]
+  },
+  {
+    "weakness": ["Bug", "Dark", "Fire", "Ghost", "Rock", "Steel"],
+    "number": "238",
+    "description": "",
+    "name": "Smoochum",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/238.png",
+    "id": 238,
+    "type": ["ice", "psychic"]
+  },
+  {
+    "weakness": ["Ground"],
+    "number": "239",
+    "description": "",
+    "name": "Elekid",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/239.png",
+    "id": 239,
+    "type": ["electric"]
+  },
+  {
+    "weakness": ["Ground", "Rock", "Water"],
+    "number": "240",
+    "description": "",
+    "name": "Magby",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/240.png",
+    "id": 240,
+    "type": ["fire"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "241",
+    "description": "",
+    "name": "Miltank",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/241.png",
+    "id": 241,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Fighting"],
+    "number": "242",
+    "description": "",
+    "name": "Blissey",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/242.png",
+    "id": 242,
+    "type": ["normal"]
+  },
+  {
+    "weakness": ["Ground"],
+    "number": "243",
+    "description": "",
+    "name": "Raikou",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/243.png",
+    "id": 243,
+    "type": ["electric"]
+  },
+  {
+    "weakness": ["Ground", "Rock", "Water"],
+    "number": "244",
+    "description": "",
+    "name": "Entei",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/244.png",
+    "id": 244,
+    "type": ["fire"]
+  },
+  {
+    "weakness": ["Electric", "Grass"],
+    "number": "245",
+    "description": "",
+    "name": "Suicune",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/245.png",
+    "id": 245,
+    "type": ["water"]
+  },
+  {
+    "weakness": ["Grass", "Water", "Fighting", "Ground", "Ice", "Steel"],
+    "number": "246",
+    "description": "",
+    "name": "Larvitar",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/246.png",
+    "id": 246,
+    "type": ["rock", "ground"]
+  },
+  {
+    "weakness": ["Grass", "Water", "Fighting", "Ground", "Ice", "Steel"],
+    "number": "247",
+    "description": "",
+    "name": "Pupitar",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/247.png",
+    "id": 247,
+    "type": ["rock", "ground"]
+  },
+  {
+    "weakness": [
+      "Steel",
+      "Fighting",
+      "Water",
+      "Fairy",
+      "Grass",
+      "Bug",
+      "Ground"
+    ],
+    "number": "248",
+    "description": "",
+    "name": "Tyranitar",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/248.png",
+    "id": 248,
+    "type": ["rock", "dark"]
+  },
+  {
+    "weakness": [
+      "Fighting",
+      "Bug",
+      "Grass",
+      "Ground",
+      "Steel",
+      "Water",
+      "Fairy"
+    ],
+    "number": "248",
+    "description": "",
+    "name": "Tyranitar",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/248.png",
+    "id": 248,
+    "type": ["rock", "dark"]
+  },
+  {
+    "weakness": ["Dark", "Electric", "Ghost", "Ice", "Rock"],
+    "number": "249",
+    "description": "",
+    "name": "Lugia",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/249.png",
+    "id": 249,
+    "type": ["psychic", "flying"]
+  },
+  {
+    "weakness": ["Rock", "Electric", "Water"],
+    "number": "250",
+    "description": "",
+    "name": "Ho-Oh",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/250.png",
+    "id": 250,
+    "type": ["fire", "flying"]
+  },
+  {
+    "weakness": ["Bug", "Dark", "Fire", "Flying", "Ghost", "Ice", "Poison"],
+    "number": "251",
+    "description": "",
+    "name": "Celebi",
+    "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/251.png",
+    "id": 251,
+    "type": ["psychic", "grass"]
+  }
+]
