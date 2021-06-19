@@ -605,6 +605,7 @@
   {
     "weakness": ["Ground", "Rock", "Water"],
     "number": "218",
+    "name": "Magmag",
     "description": "",
     "thumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/218.png",
     "id": 218,
